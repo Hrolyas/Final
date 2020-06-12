@@ -1,0 +1,44 @@
+header, footer {
+	background-color: #8B4513;
+}
+	 .navbar-brand {
+ font-size: 18px;
+ font-weight: 600;
+}
+​    .nav-link, .dropdown-item {
+ font-size: 15px;
+ font-weight: 600;
+ text-transform: uppercase;
+}
+nav li {
+ padding: 0 18px;
+}
+nav li.active, nav li.active:before {
+ background-color: rgba(0, 0, 0, 0.1);
+ border-radius: 5px;
+}
+.carousel a:hover {
+ background: rgba(255, 255, 255, 0.2);
+}
+/* Headings */
+h1, h2, h3, h4, h5 {
+ font-family: 'Barlow Semi Condensed', sans-serif;
+ font-weight: 700;
+}
+/* Paragraph */
+p {
+ font-family: 'Roboto', sans-serif;
+ font-weight: 400;
+}
+/* Link & Buttons */
+a.btn, button {
+ font-family: 'Barlow Semi Condensed', sans-serif;
+ font-weight: 600;
+ letter-spacing: 2px;
+}
+/* Link & Buttons */
+a.btn, button {
+ font-family: 'Barlow Semi Condensed', sans-serif;
+ font-weight: 600;
+ letter-spacing: 2px;
+}
